@@ -18,6 +18,7 @@
 :O:control10::24
 :O:control15::30
 :O:control25::25
+:O:control50::127
 
 ;Crossfone
 :O:crossfone5::28
@@ -46,6 +47,7 @@
 :O:personal20::22
 :O:personal25::56
 :O:personal30::23
+:O:personal50::126
 
 ;Telecom
 :O:vci::tarjeta ciudad
